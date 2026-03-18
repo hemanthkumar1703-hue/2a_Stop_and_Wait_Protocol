@@ -50,6 +50,7 @@ for i in range(n):
 s.close()
 ~~~
 ## OUTPUT
+<img width="1063" height="602" alt="image" src="https://github.com/user-attachments/assets/27d32000-c9d2-4178-b963-571e14948f30" />
 
 
 
